@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GithubProject</string>
+    <string name="searchbar_hint">Search User</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="tab_layout_description">Tab Layout</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="share_button">Share Button</string>
+    <string name="no_favorite_user_found">No Favorite User Found!</string>
+</resources>
